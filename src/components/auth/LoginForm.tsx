@@ -103,13 +103,6 @@ export function LoginForm() {
           </Button>
         </form>
 
-        <div className="mt-6 p-4 bg-muted rounded-lg">
-          <p className="text-xs text-muted-foreground text-center mb-2">Credenciales de prueba:</p>
-          <div className="text-xs text-center space-y-1">
-            <p><strong>Admin:</strong> admin / 123456</p>
-            <p><strong>Depto:</strong> atencion / 123456</p>
-          </div>
-        </div>
       </div>
     </div>
   );
